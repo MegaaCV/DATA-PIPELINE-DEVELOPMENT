@@ -27,4 +27,4 @@ Overall, this ETL pipeline streamlines an essential part of the data science wor
 # OUTPUT
 [cleaned_data.csv](https://github.com/user-attachments/files/20347774/cleaned_data.csv)
 
-![Image](https://github.com/user-attachments/assets/1d4cef46-6cee-4622-bab3-66760b35f351)
+![Image](https://github.com/user-attachments/assets/d79400e9-4909-431a-825d-52aec2045cf6)
