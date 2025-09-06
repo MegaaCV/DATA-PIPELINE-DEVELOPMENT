@@ -1,20 +1,7 @@
 # DATA PIPELINE DEVELOPMENT
 
-*COMPANY NAME* : CODETECH IT SOLUTIONS
 
-*NAME*         : MEGAA C V
-
-*INTERN ID*    : CT06DN683
-
-*DOMAIN*       : DATA SCIENCE
-
-*DURATION*     : 6 WEEKS
-
-*MENTOR*       : NEELA SANTHOSH
-
-# Description of my task
-
-My first task was to design and implement an automated ETL (Extract, Transform, Load) pipeline using Python. The goal was to create a user-friendly script that accepts any CSV dataset, cleans and transforms the data, and exports the refined dataset for analysis.
+I have designed and implemented an automated ETL (Extract, Transform, Load) pipeline using Python. The goal was to create a user-friendly script that accepts any CSV dataset, cleans and transforms the data, and exports the refined dataset for analysis.
 
 The pipeline starts with extracting data by prompting the user for the dataset path, validating the file, and reading it through the Pandas library. 
 
